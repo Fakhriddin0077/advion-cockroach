@@ -113,7 +113,7 @@ body {
 }
 
 .main__about {
-    display: flex;
+    display: flex;    
     justify-content: space-evenly;
     align-items: center;
     padding-top: 20px;
@@ -122,8 +122,26 @@ body {
     width: 100%;
     margin: 0 auto;
 }
+.main__about-contact {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    max-width: 1110px;
+    width: 100%;
+    margin: 0 auto;
+}
+.payment {
+
+}
 .advion__photo{
     max-width: 450px;
+    width: 100%;
+}
+.advion__photo1{
+    max-width: 650px;
     width: 100%;
 }
 .main__about-right{
@@ -292,15 +310,36 @@ body {
     flex-direction: column;
     justify-content: flex-start;
 }
-.our_contact{
-    /* padding-left: 30px;   
-    padding-top: 20px; */
+.our_contact{   
     font-family: var(--MR), sans-serif;
     font-size: 24px;
     line-height: 40px;
     list-style: disc;
+    color: #000000;
 }
+.number {
+    font-family: var(--MR), sans-serif;
+    font-size: 24px;
+    line-height: 40px;
+    list-style: disc;
+    color: var(--Bblue);
+}    
 
+.Payme_link{
+    font-family: var(--MR), sans-serif;
+    font-size: 24px;
+    line-height: 40px;
+    list-style: disc;
+    color: var(--Bblue)
+}
+.ordernow {
+    max-width: 1000px;
+    width: 100%;
+    padding-bottom: 20px;
+}
+.ordertoday {
+    color:#b22222;
+}
 
 
 
