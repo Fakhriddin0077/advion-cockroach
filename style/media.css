@@ -1,0 +1,109 @@
+@media(max-width: 937px) {
+    .header__nav-description {
+        font-size: 18px;
+        line-height: 20px;
+        padding: 13px 12px;
+    }
+    .home-page {
+        max-width: 300px;
+        width: 100%;
+    }
+    .main__content {
+        max-width: 900px;  
+        width: 100%;
+    }
+    .main__content-left{
+        max-width: 550px;
+        width: 100%;
+    }
+    .main__content-right{
+        max-width: 550px;
+        width: 100%;
+    }
+}
+@media(max-width: 916px) {
+    .header__nav-description {
+        font-size: 18px;
+        line-height: 20px;
+        padding: 13px 12px;
+    }
+    .home-page {
+        max-width: 280px;       
+    }
+    .maps {
+        max-width: 900px;
+        width: 100%;
+    }
+}
+@media(max-width: 825px) {
+    .maps {
+        max-width: 810px;
+        width: 100%;
+    }
+    .advion_photo1{
+        max-width: 380px;
+        width: 100%;
+    }
+    .our_contact {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .Payme_link{ {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .header__nav-description {
+        font-size: 15px;
+        line-height: 17px;
+        padding: 13px 9px;
+    }
+    .main__content-about-gel {
+        font-size: 30px;
+        line-height: 36px;
+        padding-bottom: 17px;
+    }
+    .price-today {
+        font-size: 28px;
+        line-height: 30px;
+        padding-bottom: 4px;
+    }
+    .main__content-about {
+        font-size: 17px;
+        line-height: 19px;
+        padding-top: 0px;
+        padding-bottom: 10px;
+    }
+    .main__content-description {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .advion__photo {
+        max-width: 400px;
+        width: 100%;
+    }
+    .about__title1 {
+        font-size: 28px;
+        line-height: 34px;
+        padding-top: 0px;
+        padding-bottom: 13px;
+        padding-left: 10px; 
+    }
+    .about__title2 {
+        font-size: 28px;
+        line-height: 34px;
+        padding-top: 0px;
+        padding-bottom: 13px;
+        padding-left: 10px; 
+    }
+    .about__description {
+        font-size: 15px;
+        line-height: 24px;
+        padding-top: 7px; 
+        padding-left: 10px;       
+    }
+    .img1 {
+        max-width: 680px;
+        width: 100%;
+        padding-left: 10px;
+    }
+}
