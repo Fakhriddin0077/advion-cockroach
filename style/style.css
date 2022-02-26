@@ -133,9 +133,7 @@ body {
     width: 100%;
     margin: 0 auto;
 }
-.payment {
 
-}
 .advion__photo{
     max-width: 450px;
     width: 100%;
@@ -226,9 +224,6 @@ body {
     list-style: disc;
 }
 
-.about__content{
-    /* padding-top: 70px; */
-}
 .about__title1{
     font-family: var(--ML), sans-serif;
     font-size: 42px;
@@ -340,8 +335,6 @@ body {
 .ordertoday {
     color:#b22222;
 }
-
-
 
 .header_about {
     max-width: 1400px;

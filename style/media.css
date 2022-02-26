@@ -4,6 +4,11 @@
         line-height: 20px;
         padding: 13px 12px;
     }
+    .header__nav-description:hover{
+        background: #ffffff;
+        padding: 0 0;
+        color: var(--Bblue);        
+    }
     .container {
         max-width: 937px;
         width: 100%;
@@ -26,6 +31,11 @@
         font-size: 18px;
         line-height: 20px;
         padding: 13px 12px;
+    }
+    .header__nav-description:hover{
+        background: #ffffff;
+        padding: 0 0;
+        color: var(--Bblue);        
     }
     .container {
         max-width: 916px;
@@ -105,6 +115,11 @@
         font-size: 16px;
         line-height: 17px;
         padding: 13px 9px;
+    }
+    .header__nav-description:hover{
+        background: #ffffff;
+        padding: 0 0;
+        color: var(--Bblue);        
     }
     .main__content-about-gel {
         font-size: 30px;
@@ -199,6 +214,11 @@
         font-size: 16px;
         line-height: 17px;
         padding: 13px 9px;
+    }
+    .header__nav-description:hover{
+        background: #ffffff;
+        padding: 0 0;
+        color: var(--Bblue);        
     }
     .main__content-about-gel {
         font-size: 23px;
@@ -302,6 +322,11 @@
     .advion__link {
         display: none;
     }
+    .header__nav-description:hover{
+        background: #ffffff;
+        padding: 0 0;
+        color: var(--Bblue);        
+    }
 }
 @media(max-width:660px) {
     .main__about {
@@ -341,5 +366,9 @@
         padding-bottom: 4px;
         padding-top: 4px;
     }
-
+    .header__nav-description:hover{
+        background: #ffffff;
+        padding: 0 0;
+        color: var(--Bblue);        
+    }
 }
